@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Jordy Nicholas. I'm currently a proud Software Engineering Intern at Encora.
+- 👀 I’m interested in studying, gaming and general art (Movies & Music mostly).
+- 🌱 I’m currently learning about AWS, and practicing development using Angular and Java. Also, i'm a post-graduation student in Software Engineering at PUC Minas.
+- 💞️ I’m looking to collaborate on projects that helps me develop my skills as a Software Developer. Also, I look forward to become a better professional in order to collaborate with everything that my team finds useful in me.
+- 📫 You can reach me in my e-mail: jordy.silva@encora.com, or my phone number: +55 12 98208-8663.
+- ⚡ Fun facts: I'm a retro-gaming enthusiast. This means that i usually enjoy playing older games than the new AAA games.
+- ⚡ Fun facts: I cheer for the biggest team in earth: The King of Football's team, Santos Futebol Clube! A pride that not everyone may have!
